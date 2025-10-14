@@ -7,4 +7,4 @@ Run localhost command- php -S localhost:4000
 
 <h1>To Download Other Versions of PHP in Laragaon</h1>
 <p>Refer to this link:</p>
-<a href = "https://windows.php.net/downloads/releases/" target= "_blank"> Press Here</a>
+<a href = "https://windows.php.net/downloads/releases/" target="_blank"> Press Here</a>
