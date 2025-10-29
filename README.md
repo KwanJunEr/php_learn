@@ -10,3 +10,8 @@ Run localhost command- php -S localhost:4000
 <a href = "https://windows.php.net/downloads/releases/" target="_blank"> Press Here</a>
 <br/>
 Refer to this tutorial: https://www.youtube.com/watch?v=FRSVrtbN7tY
+
+<hr/>
+<h1>Laravel Notes</h1>
+<p>Link: https://docs.google.com/document/d/1rI-HLkKOU435xtcEO1zno505RZjVq_P1PJCpnZkUBdc/edit?usp=sharing</p>
+
